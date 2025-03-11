@@ -7,11 +7,11 @@ public:
             int tempArea = (right-left) * min(height[left],height[right]); 
             maxArea = max(maxArea, tempArea);
             
-            if (height[left]>height[right]){
-                right--;
+            if (height[left]<height[right]){
+                left++;
             }
             else{
-                left++;
+                right--;
             }
 
         }
