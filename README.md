@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0228-summary-ranges](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0228-summary-ranges) |
 ## Two Pointers
 |  |
 | ------- |
