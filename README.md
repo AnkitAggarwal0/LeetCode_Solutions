@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -58,4 +59,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
