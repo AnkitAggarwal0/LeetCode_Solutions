@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0228-summary-ranges) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
