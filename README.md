@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0228-summary-ranges) |
+| [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
