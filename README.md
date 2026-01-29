@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -121,5 +123,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
