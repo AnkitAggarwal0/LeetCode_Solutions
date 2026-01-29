@@ -4,7 +4,9 @@ public:
         std::stack<int> operation;
 
         for (std::string token : tokens){
-            if (token == "-" || token == "+" || token == "/" || token == "*"){ 
+            // if (token == "-" || token == "+" || token == "/" || token == "*")
+            if(token.size() == 1 && !isdigit(token[0]))
+            { 
                 //operator
                 int val = operation.top();
                 operation.pop();
