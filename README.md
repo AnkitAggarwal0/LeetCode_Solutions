@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1580-shuffle-the-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
