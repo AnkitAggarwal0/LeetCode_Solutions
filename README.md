@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -107,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
