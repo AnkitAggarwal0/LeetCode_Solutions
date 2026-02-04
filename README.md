@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 ## Binary Search
