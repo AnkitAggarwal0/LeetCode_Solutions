@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
