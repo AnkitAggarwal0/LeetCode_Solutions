@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0636-exclusive-time-of-functions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1127-last-stone-weight](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
@@ -151,4 +152,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 <!---LeetCode Topics End-->
