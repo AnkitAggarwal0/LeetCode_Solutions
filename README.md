@@ -153,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
