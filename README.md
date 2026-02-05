@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1580-shuffle-the-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +137,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
