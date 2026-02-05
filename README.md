@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0228-summary-ranges) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -148,5 +149,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
