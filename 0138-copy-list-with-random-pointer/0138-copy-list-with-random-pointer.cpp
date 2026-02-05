@@ -17,7 +17,7 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        
+        if (!head) return nullptr;
         std::unordered_map<Node*, Node*> old_to_new;
 
         Node* curr = head;
