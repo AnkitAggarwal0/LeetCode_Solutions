@@ -157,4 +157,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0328-odd-even-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
