@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0633-sum-of-square-numbers](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
