@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1783-ways-to-make-a-fair-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1783-ways-to-make-a-fair-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1306-minimum-absolute-difference](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
