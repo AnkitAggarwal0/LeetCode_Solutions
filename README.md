@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2470-removing-stars-from-a-string](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 ## Interactive
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
