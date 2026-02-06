@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -263,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
