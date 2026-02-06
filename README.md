@@ -155,12 +155,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1783-ways-to-make-a-fair-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1783-ways-to-make-a-fair-array) |
 | [1833-find-the-highest-altitude](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
