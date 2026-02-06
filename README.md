@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0636-exclusive-time-of-functions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1127-last-stone-weight](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+| [1306-minimum-absolute-difference](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [1306-minimum-absolute-difference](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
