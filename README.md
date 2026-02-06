@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
