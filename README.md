@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
