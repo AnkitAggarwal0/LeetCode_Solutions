@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1580-shuffle-the-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1783-ways-to-make-a-fair-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1783-ways-to-make-a-fair-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -173,5 +174,6 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1783-ways-to-make-a-fair-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1783-ways-to-make-a-fair-array) |
 | [1833-find-the-highest-altitude](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
