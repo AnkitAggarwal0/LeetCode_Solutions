@@ -201,10 +201,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,4 +215,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
