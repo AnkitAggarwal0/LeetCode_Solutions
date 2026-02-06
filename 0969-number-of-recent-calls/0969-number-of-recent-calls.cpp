@@ -1,16 +1,18 @@
 class RecentCounter {
 public:
     std::queue<int> calls; 
+    int counter = 0;
     RecentCounter() {     
     }
     
     int ping(int t) {
         calls.push(t);
-
+        counter++;
         while (calls.front() < t-3000){
             calls.pop();
+            counter--;
         }
-        return calls.size();
+        return counter;
     }
 };
 
