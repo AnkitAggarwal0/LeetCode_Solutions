@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0968-beautiful-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0968-beautiful-array) |
 | [1127-last-stone-weight](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 | [1306-minimum-absolute-difference](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0968-beautiful-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0968-beautiful-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0968-beautiful-array) |
 ## Quickselect
 |  |
 | ------- |
