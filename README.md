@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0633-sum-of-square-numbers](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0968-beautiful-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
