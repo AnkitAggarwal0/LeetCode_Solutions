@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0968-beautiful-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -282,8 +284,10 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0292-nim-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
+| [1086-divisor-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
