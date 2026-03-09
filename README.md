@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
@@ -257,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0904-leaf-similar-trees) |
 ## Sliding Window
@@ -271,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0968-beautiful-array](https://github.com/AnkitAggarwal0/LeetCode_Solutions/tree/master/0968-beautiful-array) |
 ## Quickselect
